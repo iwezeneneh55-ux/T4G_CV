@@ -1,0 +1,31 @@
+h2{
+    color: gray;
+}
+h1{
+    background-color: rgb(230, 220, 220);
+    text-align: center;
+}
+h3{
+    color: blue;
+}
+.bigcontainer{
+    display: flex;
+    gap: 50px;
+}
+.img1{
+    border-radius: 50%;
+}
+.container2{
+    line-height: 40px;
+}
+.img3{
+    width: 200px;
+    height: 300px;
+}
+.img2{
+    width: 200px;
+    height: 300px;
+}
+body{
+    margin: auto;
+}
