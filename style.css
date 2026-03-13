@@ -19,13 +19,33 @@ h3{
     line-height: 40px;
 }
 .img3{
-    width: 200px;
-    height: 300px;
+    width: 300px;
+    height: 200px;
 }
 .img2{
-    width: 200px;
-    height: 300px;
+    width: 300px;
+    height: 200px;
 }
 body{
     margin: auto;
+}
+.p3{
+  background-color: yellow;  
+}
+.bigcontainer2{
+    display: flex;
+    gap: 50px;
+    
+}
+.imgcontainer1{
+    border: solid black;
+    padding: 20px;
+}
+.imgcontainer2{
+    border: solid black;
+    padding: 20px;
+}
+.botton1{
+   background-color: blue;
+   color: aliceblue;
 }
